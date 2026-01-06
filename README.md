@@ -1,0 +1,2 @@
+# springLangchain4j
+基于springboot+Langchain4j的ai志愿问答项目
